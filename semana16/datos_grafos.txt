@@ -1,0 +1,13 @@
+GRAFO1
+Quito;Lago Agrio
+Quito;Cuenca
+Lago Agrio;Guayaquil
+Cuenca;Guayaquil
+Quito;Guayaquil
+
+GRAFO2
+Ana;Carlos
+Ana;Luis
+Carlos;Maria
+Luis;Maria
+Carlos;Luis
